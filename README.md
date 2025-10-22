@@ -18,7 +18,6 @@ Kullanıcılar mobil uygulama üzerinden şehir seçip restoranları keşfederke
 | 📱 **Mobil Uygulama (React Native)** | Restoran listesi, analiz sonuçları ve görseller |
 | 🧾 **Backend (FastAPI)** | API üzerinden analiz sonuçlarını yönetir |
 | ☁️ **Veritabanı (Supabase / PostgreSQL)** | Restoran, yorum ve skor kayıtları |
-| 💬 **Çok Dilli Destek** | Türkçe & İngilizce yorum analizleri |
 
 ---
 
